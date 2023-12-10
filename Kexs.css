@@ -1,0 +1,74 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("lukex.jpg");
+  background-size: cover;
+}
+.navbar {
+  background-color: transparent;
+  width: 100%;
+  height: 20%;
+}
+.ul-navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.p-navbar {
+  color: white
+  padding: 20px;
+  margin: 5px;
+  font-size: 30px;
+  text-align: center;
+  
+  
+  
+  
+  
+  
+  
+  
+}
+.conten {
+  background-color: transparent;
+  width: 100%;
+  height: 67%;
+}
+.ul-conten {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.p-conten {
+  color: red;
+  
+}
+
+
+
+
+
+.footer {
+  background-color: transparent;
+  width: 100%;
+  height: 100px;
+}
+
+.ul-footer {
+   font-size: 10px;
+   text-align: center;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+.p-footer {
+ 
+  color: navy;
+}
